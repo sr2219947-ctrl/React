@@ -14,3 +14,13 @@
          </div>
    </div> 
    so how to render this --> solution -> JSX
+
+
+    Bundler -> for optimize and production ready code.
+    Webpack,vite, parcel .
+
+
+package.json -> information about project and meta data . 
+
+What is npm --> javascript libraries , packages ka database . node package manager .
+like parcel code , typescript, react react Dom  code all is in the npm . 
