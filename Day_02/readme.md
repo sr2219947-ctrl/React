@@ -1,5 +1,5 @@
 / cdn-> content delivery network 
-// when new element is inserted previous data vanished and only new will appear .aslso if you write anything in your index.html that will not appear because the ne data render takes .
+// when new element is inserted previous data vanished and only new will appear .also if you write anything in your index.html that will not appear because the ne data render takes .
 //  OK --> but both should visible 
 
 // Solution --> will create a div and content inside that --> we can wrap the both element in single element div .
